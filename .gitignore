@@ -1,21 +1,32 @@
 # Python
 __pycache__/
 *.pyc
-.env
+*.pyo
+*.pyd
+.Python
+env/
 venv/
+pip-log.txt
 
-# IDE
+# IDEs (Code Editors)
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# OS
+# Operating System
 .DS_Store
 Thumbs.db
 
-# Database
+# Database & Logs
 *.db
+*.sqlite
 *.log
+*.sql.gz
 
-# Large files
+# Data & Environment
+.env
+.venv
 *.zip
-
+*.tar.gz
+data_backups/
