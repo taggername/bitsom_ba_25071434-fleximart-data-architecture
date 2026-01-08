@@ -1,0 +1,10 @@
+==========================================
+      FLEXIMART DATA QUALITY REPORT       
+==========================================
+
+1. Total Records Processed: 87
+2. Duplicates Removed:      1
+3. Missing Values Handled:  10
+4. Records Loaded to MySQL: 86
+
+Status: COMPLETED SUCCESSFULLY
